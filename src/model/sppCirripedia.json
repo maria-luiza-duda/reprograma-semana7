@@ -1,0 +1,53 @@
+[
+    {
+        "nomeDaEspecie": "Chthamalus bisinuatus",
+        "genero": "Chthamalus",
+        "familia": "Chthamalidae"
+    },
+    {
+        "nomeDaEspecie": "Coronula diadema",
+        "genero": "Coronula",
+        "familia": "Coronulidae"
+    },
+    {
+        "nomeDaEspecie": "Lepas anatifa anserifera",
+        "genero": "Lepas",
+        "familia": "Lepadidae"
+    },
+    {
+        "nomeDaEspecie": "Chelonibia patula",
+        "genero": "Chelonibia",
+        "familia": "Chelonibiidae"
+    },
+    {
+        "nomeDaEspecie": "Balanus trigonus",
+        "genero": "Balanus",
+        "familia": "Balanidae"
+    },
+    {
+        "nomeDaEspecie": "Amphibalanus improvisus",
+        "genero": "Balanus",
+        "familia": "Balanidae"
+    },
+    {
+        "nomeDaEspecie": "Tetraclita stalactifera",
+        "genero": "Tetraclita",
+        "familia": "Tetraclitidae"
+    },
+    {
+        "nomeDaEspecie": "Megabalanus tintinnabulum",
+        "genero": "Balanus",
+        "familia": "Balanidae"
+    },
+    {
+        "nomeDaEspecie": "Arcoscalpellum baubalocerus",
+        "genero": "Arcoscalpellum",
+        "familia": "Scalpellidae"
+    },
+    {
+        "nomeDaEspecie": "Chthamalus fragilis",
+        "genero": "Chthamalus",
+        "familia": "Chthamalidae"
+    }
+    
+]
